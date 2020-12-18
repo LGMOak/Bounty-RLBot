@@ -1,6 +1,6 @@
 # Bounty - A Rocket League Bot
 Bounty is a Rocket League Bot built in Python.
-For more context, see [RLBot.org](<http://www.rlbot.org/>)
+See [RLBot.org](<http://www.rlbot.org/>)
 
 Currently can play at a basic level on par with All-Star bots
 
