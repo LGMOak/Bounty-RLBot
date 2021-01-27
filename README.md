@@ -2,13 +2,14 @@
 Bounty is a Rocket League Bot built in Python.
 See [RLBot.org](<http://www.rlbot.org/>)
 
-Currently can play at a basic level on par with All-Star bots
+Is currently playable but not smart
 
 # Framework
 [RLBot Framework](<https://github.com/RLBot/RLBot>)
 
-Making use of [GoslingUtils](<https://github.com/ddthj/GoslingUtils>)
+Making use of [VirxERLU Utils](<https://github.com/VirxEC/VirxERLU>)
 
 # TODO
-* Make Bounty smarter and more efficient 
-* Implement actual basic strategy
+* Create Heatseeker bot
+* Create Soccar Bot
+* Make bots smarter
